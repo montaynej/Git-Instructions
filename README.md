@@ -8,7 +8,7 @@ In the terminal/cmd window cd to that folder then type
 ```javascript
 git init
 ```
-to initialise that folder for use with GIT then type
+to initialise that folder for use with GIT then type (make sure you have the clone address in your clipboard)
 
 ```javascript
 git remote add origin (and then paste the clone link)
