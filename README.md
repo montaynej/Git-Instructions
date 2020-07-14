@@ -12,3 +12,26 @@ to initialise that folder for use with GIT then type
 git remote add origin (and then paste the clone link)
 git pull origin master
 ```
+To check what files have changed type
+
+```javascript
+git status
+```
+
+To add files to your commit type
+
+```javascript
+git add .
+```
+
+Now we need to make a committ with a message. Type
+
+```javascript
+git commit -m "Updated the function to retrun objects correctly"
+```
+
+Now we need to push the changes to the repositiory. Type
+
+```javascript
+git push origin master
+```
