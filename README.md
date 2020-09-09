@@ -1,6 +1,6 @@
 # Git-Instructions
 
-## Student Name : John
+## Student Name : 
 
 Create a folder on your Computer for Module Assignments
 
