@@ -1,10 +1,10 @@
 # Git-Instructions
 
-## Student Name : 
+## Student Name : John
 
 Create a folder on your Computer for Module Assignments
 
-In the terminal/cmd window cd to that folder then type 
+In the terminal/cmd window cd to that folder then type
 ```javascript
 git init
 ```
